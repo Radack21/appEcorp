@@ -1,0 +1,3 @@
+
+
+export { permissionsSchema } from "./permissionsSchema";
